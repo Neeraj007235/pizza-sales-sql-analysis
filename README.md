@@ -4,7 +4,12 @@
 Analysis of a year's worth of sales data for a fictional pizza place. The goal was to answer critical business questions regarding sales trends, inventory management, and customer preferences using advanced SQL techniques.
 
 **Tools Used:** MySQL, MySQL Workbench
-**Dataset:** [Pizza Sales Dataset] (4 tables, ~50,000 records)
+
+**Dataset:** The dataset is provided as a ZIP file containing four CSV files:
+- orders.csv
+- order_details.csv
+- pizzas.csv
+- pizza_types.csv
 
 ## 📂 Database Schema
 I designed a relational database with the following normalized tables:
